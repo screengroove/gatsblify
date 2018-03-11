@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: HERO
+title: HERO YO
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
